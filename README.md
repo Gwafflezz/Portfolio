@@ -21,9 +21,9 @@ I'm Davi Bezerra, a passionate Data Scientist with expertise in:
 
 ## 📜 License
 
-This portfolio is licensed under the MIT License - see the [LICENSE]
+This portfolio is licensed under the MIT License - see the [[LICENSE]]
 
 ## 📫 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/davi-bezerra5962]
+- LinkedIn: [[https://www.linkedin.com/in/davi-bezerra5962]]
 - Email: bbarrosdavi@gmail.com
